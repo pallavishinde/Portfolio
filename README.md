@@ -24,11 +24,10 @@ Using the [Ames Housing Data](https://www.kaggle.com/c/house-prices-advanced-reg
 
 This [notebook](https://github.com/pallavishinde/Portfolio/blob/master/Flights%20Delay%20Dataset/EDA%20%26%20Visualization%20-%20Flights%20Delay%20Dataset.ipynb) explores the flight delays dataset to understand the trend in flight delays from airports to total delay times. 
 
-#### Recommender system for Movies
+#### Movies Recommender System 
 
-
-[Movie Recommender](https://github.com/pallavishinde/Portfolio/blob/master/Movie%20Recommender/Movie%20Recommender%20System%20-%20Movie%20Lens%20Data.ipynb)
+Item based collaborative filtering to recommend movies to users based on user ratings. The notebook can be found [here](https://github.com/pallavishinde/Portfolio/blob/master/Movie%20Recommender/Movie%20Recommender%20System%20-%20Movie%20Lens%20Data.ipynb).
 
 #### Customer Segmentation for Wholesale customers
 
-[Wholesale Customer Segmentation](https://github.com/pallavishinde/Portfolio/blob/master/Wholesale%20Customers%20Segmentation/Customer%20Segmentation%20-%20Wholesale%20Customers.ipynb)
+Exploring the [Wholesale Customer dataset](https://archive.ics.uci.edu/ml/datasets/Wholesale+customers) to discover patterns and internal structure of the spending habits and create segments of different customer profiles. The notebook can be found [here](https://github.com/pallavishinde/Portfolio/blob/master/Wholesale%20Customers%20Segmentation/Customer%20Segmentation%20-%20Wholesale%20Customers.ipynb).
