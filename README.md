@@ -68,5 +68,5 @@ This project explores customer retention for a mobile game through AB testing a 
 
 This project explores the database of every Lego set ever built. The notebook can be found [here](https://github.com/pallavishinde/Portfolio/blob/master/Exploring%2067%20years%20of%20LEGO/Exploring%2067%20years%20of%20Lego.ipynb). 
 
-<sub>*Tools: Pandas, NLTK, Seaborn, Scikit-learn*</sub>
+<sub>*Tools: Pandas, Matplotlib*</sub>
 
