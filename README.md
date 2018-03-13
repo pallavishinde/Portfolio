@@ -51,3 +51,22 @@ Exploring the [Wholesale Customer dataset](https://archive.ics.uci.edu/ml/datase
 This project explores the [Airline Reviews](https://www.kaggle.com/crowdflower/twitter-airline-sentiment/data) and attempts to do a 3-way polarity (positive, negative, neutral) classification system for tweets. It uses NLTK for pre-processing tweets. The notebook can be found [here](https://github.com/pallavishinde/Portfolio/blob/master/Airline%20Reviews%20-%20Sentiment%20Analysis/Airline%20Reviews%20-%20Sentiment%20Analysis.ipynb). 
 
 <sub>*Tools: Pandas, NLTK, Seaborn, Scikit-learn*</sub>
+
+#### **9. Level Difficulty of Candy Crush Saga **
+
+This project explores the data from the mobile hit game Candy Crush Saga and computes and analyses the level difficulty. The notebook can be found [here](https://github.com/pallavishinde/Portfolio/blob/master/Level%20difficulty%20in%20Candy%20Crush%20Saga/Level%20Difficulty%20in%20Candy%20Crush%20Saga.ipynb). 
+
+<sub>*Tools: Pandas, Matplotlib, Seaborn*</sub>
+
+#### **10. Customer Retention Analysis with AB Testing **
+
+This project explores customer retention for a mobile game through AB testing a new game feature. The notbook can be found [here](https://github.com/pallavishinde/Portfolio/blob/master/Mobile%20Games%20Ab-testing%20with%20Cookie%20Cats/Analysing%20Customer%20Retention%20with%20AB%20Testing%20.ipynb). 
+
+<sub>*Tools: Pandas, Matplotlib*</sub>
+
+#### **11. Exploring 67 years of LEGO**
+
+This project explores the database of every Lego set ever built. The notebook can be found [here](https://github.com/pallavishinde/Portfolio/blob/master/Exploring%2067%20years%20of%20LEGO/Exploring%2067%20years%20of%20Lego.ipynb). 
+
+<sub>*Tools: Pandas, NLTK, Seaborn, Scikit-learn*</sub>
+
