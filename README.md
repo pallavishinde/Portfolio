@@ -70,3 +70,9 @@ This project explores the database of every Lego set ever built. The notebook ca
 
 <sub>*Tools: Pandas, Matplotlib*</sub>
 
+#### **12. Churn Prediction**
+
+This project explores the data collected by a telecoms company and try to predict whether or not a person will churn. The notebook can be found [here](https://github.com/pallavishinde/Portfolio/blob/master/Churn%20Prediction/Churn%20Prediction%20(Telecoms).ipynb). 
+
+<sub>*Tools: Pandas, Matplotlib, Seaborn, Scikit-learn*</sub>
+
