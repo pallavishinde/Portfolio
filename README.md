@@ -58,9 +58,9 @@ This project explores the data from the mobile hit game Candy Crush Saga and com
 
 <sub>*Tools: Pandas, Matplotlib, Seaborn*</sub>
 
-#### **10. Customer Retention Analysis with AB Testing**
+#### **10. Player Retention Analysis with AB Testing**
 
-This project explores customer retention for a mobile game through AB testing a new game feature. The notebook can be found [here](https://github.com/pallavishinde/Portfolio/blob/master/Mobile%20Games%20Ab-testing%20with%20Cookie%20Cats/Analysing%20Customer%20Retention%20with%20AB%20Testing%20.ipynb). 
+This project explores player retention for a mobile game through AB testing a new game feature. The notebook can be found [here](https://github.com/pallavishinde/Portfolio/blob/master/Mobile%20Games%20Ab-testing%20with%20Cookie%20Cats/Analysing%20Customer%20Retention%20with%20AB%20Testing%20.ipynb). 
 
 <sub>*Tools: Pandas, Matplotlib*</sub>
 
