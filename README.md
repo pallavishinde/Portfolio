@@ -76,3 +76,9 @@ This project explores the data collected by a telecoms company and try to predic
 
 <sub>*Tools: Pandas, Matplotlib, Seaborn, Scikit-learn*</sub>
 
+#### **13. Human vs. Bot Data Analysis**
+
+This project explores the visitor logs, in particular the user agents, for a hotel search website. The aim of the project is to analyse how much traffic can be attributed to bots and humans. It also takes a closer look at the how the traffic differs based on the devices, brands, browsers and locations. The notebook can be found [here](https://github.com/pallavishinde/Portfolio/blob/master/Bot%20vs.%20%20Human%20Data%20Analysis/Human%20and%20Bot%20Data.ipynb). 
+
+<sub>*Tools: Pandas, Matplotlib*</sub>
+
